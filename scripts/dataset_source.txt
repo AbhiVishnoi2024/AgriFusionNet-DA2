@@ -1,0 +1,13 @@
+Official dataset source:
+https://zenodo.org/records/10727413
+DOI: https://doi.org/10.5281/zenodo.10727413
+
+Dataset files listed by the official record:
+- Alternaria_2019.zip
+- Alternaria_2022.zip
+
+Description from the dataset record:
+7,660 patches of 256x256 pixels, labeled 1 = Alternaria and 0 = no Alternaria, with metadata including source image information, coordinates, flight date, and label.
+
+License:
+The associated institutional record states CC BY 4.0.

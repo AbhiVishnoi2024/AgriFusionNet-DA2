@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+data/raw/
+data/processed/
+weights/
+results/
+.env
+.vscode/
+.idea/
+.streamlit/
+.pytest_cache/
+*.log
